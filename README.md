@@ -36,3 +36,7 @@ MY WEBSITE LINK : --https://green-desert-07d48d600.3.azurestaticapps.net
  ## AZURE PORTAL SCREENSHOT
  ![Screenshot (79)](https://user-images.githubusercontent.com/127432029/232184891-10f25caf-407e-4b5d-81e4-c050e59cac2a.png)
 
+
+## GITHUB REPOSITORY SCREENSHOT
+
+![Screenshot (80)](https://user-images.githubusercontent.com/127432029/232185076-b466a7f8-46a3-46a2-9983-2f311ae6d775.png)
